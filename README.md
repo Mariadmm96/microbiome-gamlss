@@ -73,12 +73,6 @@ The script produces heatmaps with coefficient estimates for each taxon-covariate
 
 ---
 
-
-## 👩‍🔬 Author
-
-Maria De Martino
-PhD student in Biostatistics
-
 ---
 
 For issues, suggestions, or improvements, feel free to open a GitHub issue or pull reque
